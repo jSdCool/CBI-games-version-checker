@@ -1,1 +1,1 @@
-0.5.0_Early_Access
+0.6.0_Early_Access
