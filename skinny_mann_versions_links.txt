@@ -1,0 +1,40 @@
+ver_0.8.1
+win NRY
+winje NRY
+lin NRY
+mac NRY
+ver_0.8.0
+win https://github.com/jSdCool/skinny-mann/releases/download/v0.8.0/skinny.mann.win64.zip
+winje https://github.com/jSdCool/skinny-mann/releases/download/v0.8.0/skinny.mann.win64.java.included.zip
+lin https://github.com/jSdCool/skinny-mann/releases/download/v0.8.0/skinny-mann-linux.zip
+mac https://github.com/jSdCool/skinny-mann/releases/download/v0.8.0/skinny.mann.macos-x86_64.zip
+ver_0.7.1
+win https://github.com/jSdCool/skinny-mann/releases/download/v0.7.1/skinny.mann.win64.zip
+winje https://github.com/jSdCool/skinny-mann/releases/download/v0.7.1/skinny.mann.win64.java.included.zip
+lin https://github.com/jSdCool/skinny-mann/releases/download/v0.7.1/skinny-mann-linux.zip
+mac https://github.com/jSdCool/skinny-mann/releases/download/v0.7.1/skinny-mann-macos-x86_64.zip
+ver_0.7.0
+win https://github.com/jSdCool/skinny-mann/releases/download/v0.7.0/skinny.mann.win64.zip
+winje https://github.com/jSdCool/skinny-mann/releases/download/v0.7.0/skinny.mann.win64.java.included.zip
+lin https://github.com/jSdCool/skinny-mann/releases/download/v0.7.0/skinny.mann.linux.zip
+mac VERSION_NOT_EXSISTS
+ver_0.6.2
+win https://github.com/jSdCool/skinny-mann/releases/download/v0.6.2/skinny.mann.win64.zip
+winje https://github.com/jSdCool/skinny-mann/releases/download/v0.6.2/skinny.mann.win64.java.included.zip
+lin https://github.com/jSdCool/skinny-mann/releases/download/v0.6.2/skinny.mann.linux.zip
+mac https://github.com/jSdCool/skinny-mann/releases/download/v0.6.2/skinny.mann.macos-x86_64.zip
+ver_0.6.1
+win https://github.com/jSdCool/skinny-mann/releases/download/v0.6.1/skinny.mann.win64.zip
+winje https://github.com/jSdCool/skinny-mann/releases/download/v0.6.1/skinny.mann.win64.java.included.zip
+lin https://github.com/jSdCool/skinny-mann/releases/download/v0.6.1/skinny-mann-linux.zip
+mac https://github.com/jSdCool/skinny-mann/releases/download/v0.6.1/skinny.mann.macos-x86_64.zip
+ver_0.6.0
+win https://github.com/jSdCool/skinny-mann/releases/download/v0.6.0/skinny.mann.win64.zip
+winje https://github.com/jSdCool/skinny-mann/releases/download/v0.6.0/skinny.mann.win64.java.included.zip
+lin https://github.com/jSdCool/skinny-mann/releases/download/v0.6.0/skinny.mann.linux.zip
+mac https://github.com/jSdCool/skinny-mann/releases/download/v0.6.0/skinny.mann.macos-x86_64.zip
+ver_0.5.0
+win https://github.com/jSdCool/skinny-mann/releases/download/v0.5.0/skinny.mann.win64.zip
+winje https://github.com/jSdCool/skinny-mann/releases/download/v0.5.0/skinny.mann.win64.java.included.zip
+lin https://github.com/jSdCool/skinny-mann/releases/download/v0.5.0/skinny.mann.linux.zip
+mac https://github.com/jSdCool/skinny-mann/releases/download/v0.5.0/skinny.mann.macOS.zip
